@@ -1,2 +1,2 @@
-# Primeira-Aula-de-Git
+# Primeira Aula de Git
 Disciplina Internet e Programação Web
